@@ -16,7 +16,11 @@
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">1</stringProp>
+<<<<<<< HEAD
         </elementProp>
+=======
+        </elementProp>sdfdasfadsf
+>>>>>>> bdf96e4e5e1c18747f7fe749a3062795c6ab77df
         <stringProp name="ThreadGroup.num_threads">1</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <longProp name="ThreadGroup.start_time">1522144885000</longProp>
@@ -88,7 +92,11 @@
         </HTTPSamplerProxy>
         <hashTree>
           <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
+<<<<<<< HEAD
             <collectionProp name="Asserion.test_strings">
+=======
+            <collectionProp name="Asaserion.test_strings">
+>>>>>>> bdf96e4e5e1c18747f7fe749a3062795c6ab77df
               <stringProp name="49587">201</stringProp>
             </collectionProp>
             <stringProp name="Assertion.custom_message"></stringProp>
