@@ -1,0 +1,6 @@
+body {
+                 background black;
+                 color #80c0c0 }
+[Go To Analysis]       alink { color #ff8080 }
+[Go To Analysis]       avisited { color #ff0000 }
+[Go To Analysis]       aactive { color #a05050 }
